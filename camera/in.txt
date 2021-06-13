@@ -27,7 +27,6 @@
 26.bmp
 27.bmp
 28.bmp
-29.bmp
 30.bmp
 31.bmp
 32.bmp
@@ -41,3 +40,19 @@
 40.bmp
 41.bmp
 42.bmp
+43.bmp
+44.bmp
+45.bmp
+49.bmp
+50.bmp
+51.bmp
+52.bmp
+53.bmp
+54.bmp
+55.bmp
+56.bmp
+57.bmp
+58.bmp
+59.bmp
+62.bmp
+63.bmp

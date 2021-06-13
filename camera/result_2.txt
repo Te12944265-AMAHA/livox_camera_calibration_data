@@ -1,0 +1,73 @@
+Average error: 
+The error of picture 1 is 30.1299 pixel
+The error of picture 2 is 45.4564 pixel
+The error of picture 3 is 56.8655 pixel
+The error of picture 4 is 128.321 pixel
+The error of picture 5 is 48.5517 pixel
+The error of picture 6 is 56.3881 pixel
+The error of picture 7 is 3.96109 pixel
+The error of picture 8 is 58.4886 pixel
+The error of picture 9 is 3.64959 pixel
+The error of picture 10 is 23.9125 pixel
+The error of picture 11 is 55.6313 pixel
+The error of picture 12 is 42.0898 pixel
+The error of picture 13 is 4.60724 pixel
+The error of picture 14 is 26.6143 pixel
+The error of picture 15 is 7.40966 pixel
+The error of picture 16 is 25.045 pixel
+The error of picture 17 is 4.41723 pixel
+The error of picture 18 is 19.8319 pixel
+The error of picture 19 is 33.2202 pixel
+The error of picture 20 is 32.2691 pixel
+The error of picture 21 is 37.8244 pixel
+The error of picture 22 is 2.138 pixel
+The error of picture 23 is 55.6196 pixel
+The error of picture 24 is 35.2322 pixel
+The error of picture 25 is 2.26827 pixel
+The error of picture 26 is 36.6469 pixel
+The error of picture 27 is 23.5467 pixel
+The error of picture 28 is 44.2138 pixel
+The error of picture 29 is 77.3781 pixel
+The error of picture 30 is 4.30029 pixel
+The error of picture 31 is 83.7875 pixel
+The error of picture 32 is 48.0478 pixel
+The error of picture 33 is 126.003 pixel
+The error of picture 34 is 89.891 pixel
+The error of picture 35 is 5.76974 pixel
+The error of picture 36 is 36.2263 pixel
+The error of picture 37 is 52.2199 pixel
+The error of picture 38 is 67.6486 pixel
+The error of picture 39 is 5.00052 pixel
+The error of picture 40 is 88.2558 pixel
+The error of picture 41 is 121.792 pixel
+The error of picture 42 is 20.2041 pixel
+The error of picture 43 is 5.56918 pixel
+The error of picture 44 is 4.14755 pixel
+The error of picture 45 is 51.1686 pixel
+The error of picture 46 is 19.4394 pixel
+The error of picture 47 is 37.1812 pixel
+The error of picture 48 is 31.2938 pixel
+The error of picture 49 is 131.251 pixel
+The error of picture 50 is 39.6421 pixel
+The error of picture 51 is 47.1946 pixel
+The error of picture 52 is 49.0451 pixel
+The error of picture 53 is 32.4 pixel
+The error of picture 54 is 38.3929 pixel
+The error of picture 55 is 73.9238 pixel
+The error of picture 56 is 46.0491 pixel
+The error of picture 57 is 75.5987 pixel
+The error of picture 58 is 4.5394 pixel
+Overall average error is: 42.3743 pixel
+
+Intrinsic: 
+[332.89362, 0, 1118.0603;
+ 0, 287.46304, 708.50653;
+ 0, 0, 1]
+
+Fisheye distortion parameters: 
+[-0.25018468;
+ 0.33402023;
+ -0.083773822;
+ -0.022919349]
+
+
